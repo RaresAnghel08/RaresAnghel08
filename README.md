@@ -13,7 +13,6 @@ Exploring Technology: Learning about the latest trends in technology such as art
 Music: Listening to music
 Reading: Reading books from various genres including fiction, non-fiction, science fiction, fantasy etc.
 Sports and Physical Activities: Participating in individual or team sports such as soccer, basketball, swimming, running etc.
-Visual Arts: Drawing, painting
 Video Games: Playing video games and exploring different genres such as strategy games, action games, adventure games etc.
 Travel: Exploring new places, cultures, and natural or urban landscapes.
 
