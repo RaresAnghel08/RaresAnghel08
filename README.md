@@ -4,6 +4,7 @@ About Me:
 Hello! I'm Anghel Rareș Mihai, born in 2008, and I'm a student at the "Tudor Vianu" National High School of Computer Science
 
 Interests:
+
 Programming: I enjoy exploring the world of programming and learning new things in areas such as web development, algorithms, and artificial intelligence.
 Science and Technology: I'm fascinated by discoveries in the field of science and technology, and each new technology intrigues me and motivates me to learn more.
 
